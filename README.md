@@ -2,13 +2,13 @@
 
 Hello, GitHub! 👋
 
-I'm Zach, a student at Brigham Young University-Idaho interested in Computer Science. Welcome to my GitHub profile!
+I'm Zach, a Computer Science student at Brigham Young University–Idaho with a growing passion for software development and machine learning.
 
 ## About Me
 
-- I'm currently learning machine learning
-- My goals are to 
-- Ask me about 
+Currently learning machine learning and AI fundamentals
+Passionate about solving real-world problems through code
+I enjoy working with backend systems and data-driven applications
 
 ## Technologies and Tools
 
@@ -21,4 +21,4 @@ I'm Zach, a student at Brigham Young University-Idaho interested in Computer Sci
 
 - Here is my [LinkedIn](https://www.linkedin.com/in/zachwmcl/) profile
 
-Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
+Feel free to explore my repositories, check out my projects, and reach out if you'd like to collaborate. Happy coding! 🚀
