@@ -15,7 +15,7 @@ I enjoy working with backend systems and data-driven applications
 - Favorite Language: Python
 - Experience in: SQL, HTML/CSS, C#
 - Frameworks: Django, Firebase  
-- Tools: Git, MySQL, Jupyter, VS Code, Tkinter, Pandas, NumPy
+- Tools: Git, MySQL, Jupyter, VS Code, Tkinter, Pandas, NumPy, sklearn
 
 ## Let's Connect!
 
