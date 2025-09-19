@@ -2,7 +2,7 @@
 
 Hello, GitHub! 👋
 
-I'm Zach, a Computer Science student at Brigham Young University–Idaho with a growing passion for software development and machine learning.
+I'm Zach, im a student at Brigham Young University–Idaho majoring in Computer Science. I recently decided to add a minor in Data Science and am excited to learn more about R and different things in that world.
 
 ## About Me
 
