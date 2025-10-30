@@ -2,20 +2,20 @@
 
 Hello, GitHub! 👋
 
-I'm Zach, im a student at Brigham Young University–Idaho majoring in Computer Science. I recently decided to add a minor in Data Science and am excited to learn more about R and different things in that world.
+I'm Zach, im a student at Brigham Young University–Idaho majoring in Computer Science with a minor in Data Science.
 
 ## About Me
 
-Currently learning machine learning and AI fundamentals
 Passionate about solving real-world problems through code
 I enjoy working with backend systems and data-driven applications
+Excitedly learning more about Data Science and real world applications
 
 ## Technologies and Tools
 
-- Favorite Language: Python
-- Experience in: SQL, HTML/CSS, C#
-- Frameworks: Django, Firebase  
-- Tools: Git, MySQL, Jupyter, VS Code, Tkinter, Pandas, NumPy, sklearn
+Languages: Python, C#, SQL, R, HTML/CSS
+Data & ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Keras, CatBoost, Polars, PySpark, lets_plot, ggplot
+Other Tools: Git, MySQL, Firebase, VS Code, Jupyter, Django, Tkinter
+Methods: Agile/Scrum
 
 ## Let's Connect!
 
